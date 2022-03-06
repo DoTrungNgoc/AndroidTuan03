@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/drawable/border_around.xml" value="0.2046875" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/drawable/border_around_btnXong.xml" value="0.2046875" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/drawable/border_around_btn_xong.xml" value="0.2046875" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/drawable/border_around_red.xml" value="0.2046875" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/drawable/border_around_yello.xml" value="0.2046875" />
         <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/layout/activity_activity3a.xml" value="0.18" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/layout/activity_activity3c01.xml" value="0.25" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/layout/activity_activity3c02.xml" value="0.1" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/layout/activity_activity3c03.xml" value="0.19010416666666666" />
+        <entry key="..\:/ANDROID/School/AndroidTuan03/app/src/main/res/layout/activity_activity3c04.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
